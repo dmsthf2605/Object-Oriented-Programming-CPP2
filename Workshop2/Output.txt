@@ -1,0 +1,38 @@
+ Command Line : w2 Stations.dat
+
+ Passes Sold :
+ -------------
+ Spadina
+  Student Passes sold : 5
+  Adult   Passes sold : 8
+ Bathurst
+  Student Passes sold : 34
+  Adult   Passes sold : 52
+ Keele
+  Student Passes sold : 21
+  Adult   Passes sold : 13
+ Bay
+  Student Passes sold : 67
+  Adult   Passes sold : 65
+
+ Passes Added :
+ --------------
+ Spadina
+  Student Passes added : 29
+  Adult   Passes added : 52
+ Bathurst
+  Student Passes added : 113
+  Adult   Passes added : 61
+ Keele
+  Student Passes added : 51
+  Adult   Passes added : 52
+ Bay
+  Student Passes added : 109
+  Adult   Passes added : 107
+
+ Passes in Stock : Student Adult
+ -------------------------------
+ Spadina               100   200
+ Bathurst              200   300
+ Keele                 100   100
+ Bay                   200   200
