@@ -1,0 +1,50 @@
+Inventory
+ =========
+ Product : Pizza
+ Price : 4.49
+ Product : Pierogi
+ Price : 2.56
+ Product : Potato Chips 
+ Price : 2.29
+ Product : Black Tea
+ Price : 4.49
+ Product : Green Tea
+ Price : 3.46
+ Product : Fruit Tea
+ Price : 2.29
+ Product : quit
+
+ Price List
+ ----------
+         Pizza : 4.49
+       Pierogi : 2.56
+  Potato Chips : 2.29
+     Black Tea : 4.49
+     Green Tea : 3.46
+
+ Corrections
+ -----------
+ Product : Black Tea
+ Price : 5.29
+ Product : quit
+
+ Price List
+ ----------
+         Pizza : 4.49
+       Pierogi : 2.56
+  Potato Chips : 2.29
+     Black Tea : 5.29
+     Green Tea : 3.46
+     
+ Glossary
+ ========
+ Key : CPU
+ Definition : central processing unit 
+ Key : ALU
+ Definition : arithmetic logic unit
+ Key : quit
+
+ Entries
+ -------
+  CPU : central processing unit
+  ALU : arithmetic logic unit
