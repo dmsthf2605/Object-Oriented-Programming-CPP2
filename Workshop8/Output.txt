@@ -1,0 +1,59 @@
+**Simple.dat**
+
+ Command Line : w8 Simple.dat p
+
+ Data Values
+ ===========
+       x      y
+    2.10   8.00
+    2.50  12.00
+    4.00  14.00
+    3.60  10.00
+
+
+ Statistics
+ ==========
+ y mean    =   11.00
+ y sigma   =    2.58
+ y median  =   12.00
+ slope     =    1.91
+ intercept =    5.18
+
+ Press any key to continue ...
+
+**Flat.dat**
+
+ Command Line : w8 Flat.dat p
+
+ Data Values
+ ===========
+       x      y
+    1.00   1.00
+    2.00   1.00
+    3.00   1.00
+    4.00   1.00
+
+
+ Statistics
+ ==========
+ y mean    =    1.00
+ y sigma   =    0.00
+ y median  =    1.00
+ slope     =    0.00
+ intercept =    1.00
+
+ Press any key to continue ...
+ 
+**HS_College_GPA.dat**
+
+ Command Line : w8 HS_College_GPA.dat 
+
+ Statistics
+ ==========
+ y mean    =    3.12
+ y sigma   =    0.51
+ y median  =    3.21
+ slope     =    0.78
+ intercept =    0.73
+
+ Press any key to continue ...
